@@ -1,0 +1,6 @@
+{
+  "name": "LabMaster X",
+  "description": "LabMaster X – VIP Medical Intelligence & Laboratory Companion",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
